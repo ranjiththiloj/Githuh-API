@@ -1,0 +1,23 @@
+.cntr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This makes the container take the full height of the viewport */
+}
+
+.box {
+    width: 600px;
+    background-color: blue;
+    padding: 50px;
+    border-radius: 10px; /* Rounded corners */
+    color: white; /* Text color for visibility */
+}
+
+.txtbox {
+    padding: 5px;
+}
+
+.sub {
+    align-items: center;
+    border-radius: 10px;
+}
